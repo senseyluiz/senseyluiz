@@ -1,11 +1,10 @@
-### Olá, eu sou Luis Henrique e é com muita satisfação que criei este Github
-
+### Olá, eu sou Luis Henrique, sou de Conselheiro Lafaiete MG e é com muita satisfação que criei este Github
 - 🔭 Atualmente sou estudande de Desenvolvimento FullStack na Trybe
-- 🌱 No momento aprendendo sobre Front End com HTML, CSS, JavaScript, Bootstrap e React
+- 🌱 Passei pelo Front End com HTML, CSS, JavaScript, Bootstrap, testes com Jest e RTL, Redux, ContextApi e React
+- 🌱 Agora estando no módulo de Back End com aprendizado de Docker, Sql, NodeJs
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  
+<div align="center">  
   <a href="https://github.com/senseyluiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senseyluiz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senseyluiz&layout=compact&langs_count=7&theme=highcontrast"/>
