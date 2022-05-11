@@ -2,7 +2,7 @@
 
 ### Olá, eu sou Luis Henrique, sou de Conselheiro Lafaiete MG e é com muita satisfação que criei este Github
 - 🔭 Atualmente sou estudande de Desenvolvimento FullStack na Trybe
-- 🌱 Passei pelo Front End com HTML, CSS, JavaScript, Bootstrap, testes com Jest e RTL, Redux, ContextApi e React
+- 🌱 Aprendi no módulo Front End: HTML, CSS, JavaScript, Bootstrap, testes com Jest e RTL, Redux, ContextApi e React
 - 🌱 Agora estando no módulo de Back End com aprendizado de Docker, Sql, NodeJs
 - :briefcase: Estou em busca de conhecimentos para que eu possa ter uma carreira de Desenvolvedor FullStack de sucesso e fazer a diferença.
 - 😄 Pronouns: ele/dele
