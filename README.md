@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=senseyluiz&color=4169E1)
 
 ### Olá, eu sou Luis Henrique, sou de Conselheiro Lafaiete MG e é com muita satisfação que criei este Github
-- 🔭 Atualmente sou estudande de Desenvolvimento FullStack na Trybe. A Trybe é uma escola que ensina através de projetos reais fazendo com que seus alunos tenham uma experiência real de seu conhecimento e estando mais bem preparado para solucionar problemas. Dentro deste curso, são produzidos mais de 40 projeto e com uma carga horária de mais de 1500 horas. 
+- 🔭 Atualmente sou Desenvolvedor FullStack formado pela Trybe. A Trybe é uma escola que ensina através de projetos reais fazendo com que seus alunos tenham uma experiência real de seu conhecimento e estando mais bem preparado para solucionar problemas. Dentro deste curso, são produzidos mais de 40 projeto e com uma carga horária de mais de 1500 horas. 
 - 🌱 Aprendi no módulo Front End: HTML, CSS, JavaScript, Bootstrap, testes com Jest e RTL, Redux, ContextApi e React
 - 🌱 Agora estando no módulo de Back End com aprendizado de Docker, Sql, NodeJs, TypeScript, MySql etc.
 - :briefcase: Estou em busca de conhecimentos para que eu possa ter uma carreira de Desenvolvedor FullStack de sucesso e fazer a diferença.
